@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maaf, Ola/Yolanda</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>Maaf, oyaaKuu 🙏</h1>
+      <p>Hai Ola byubb ku, aku ingin meminta maaf atas segala kesalahan yang pernah aku lakukan. Aku tahu mungkin
+        kata-kata ini tidak cukup, tetapi aku berharap kamu bisa memaafkanku. Aku sungguh menyesal dan berharap kita
+        bisa bermain lagi.</p>
+      <p>Terima kasih sudah membaca ini, dan semoga kita bisa bermain kembali.</p>
+      <button onclick="window.location.href='#'">Maafkan Aku</button>
+    </div>
+  </div>
+</body>
+
+</html>
